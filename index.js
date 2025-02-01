@@ -14,12 +14,12 @@
 
 //
 class Cliente { //classe || model
-    nome;
+    nome;//definindo atributos
     cpf;
     agencia;
     saldo;
 }
-//utilizando classe para criar um objeto
+//utilizando classe para criar um novo  objeto
 const cliente0 = new Cliente(); //objeto || instancia da classe()
 const cliente1 = new Cliente(); 
 
